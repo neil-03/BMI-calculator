@@ -1,0 +1,23 @@
+body {
+  background-color: #0346cc;
+  color: hwb(288 0% 96%);
+}
+
+span {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.main {
+  background-color: #02a9e0
+}
+
+.btn {
+  background-color: #4f5b66;
+  color: #c0c5ce;
+}
+
+.space {
+  margin-bottom: 60px;
+}
